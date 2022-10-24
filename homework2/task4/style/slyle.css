@@ -1,0 +1,13 @@
+.grey-table td{
+ background-color:#ececec;
+ padding:0.5rem;
+}
+.green-table {
+    border-spacing:4px;
+    
+}
+.green-table td{
+    background-color:#4c715b;
+  color: #fff;
+  padding:25px;
+}
