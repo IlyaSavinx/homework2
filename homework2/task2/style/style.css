@@ -1,0 +1,66 @@
+body {
+    width: 1024px;
+    margin: auto;
+}
+
+h2 {
+    font-family: "RalewayRegular";
+    height: 60px;
+    margin-top: 60px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.border {
+    border-bottom:1px solid red;
+    width: 132px;
+    margin: 0 auto;
+}
+
+h5{ 
+    text-align: center;
+    margin-top: 32px;
+    font-size: 16px;
+    
+    line-height: 16px;
+    color: #86878B;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cards {
+    text-align: center;
+}
+
+.img{
+    border:1px solid #EC7979;
+    border-radius: 100%;
+    padding: 12px;
+    height:56px;
+    width: 56px;
+    margin-bottom: 32px;
+}
+
+.text{
+    display:inline-block;
+    margin-top: 133px;
+    text-align: center;
+    margin: 32px 0px 10px;
+    width: 318px;
+    color: black;
+    font-size: 20px;
+    font-family: "RalewayRegular";
+    
+}
+
+.text h4 {
+    margin-bottom: 17px;
+}
+
+.text h5 {
+    font-family: "RalewayRegular";
+    color: black;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
