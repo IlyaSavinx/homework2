@@ -1,0 +1,36 @@
+.ramka {
+  background: #87348d;
+  color: #fff;
+  padding: 1em;
+  border: 6px double #fff;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #b6dec2;
+}
+th,
+td {
+  border: 2px solid #fff;
+  padding: 7px;
+}
+.table-piramidi {
+  font-family: sans-serif;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  background: #b18979;
+  color: #fff;
+  padding: 1rem;
+  margin-bottom: 2px;
+}
+
+li:first-child {
+  border-radius: 7px 7px 0 0;
+}
+
+li:last-child {
+  border-radius: 0 0 7px 7px;
+}

@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap");
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.section-header {
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+}
+.section-header-title {
+  font-family: "Open Sans";
+  height: 124px;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  line-height: 41px;
+}
+.section-header-sub-title {
+  width: 570px;
+  height: 210px;
+  font-weight: 400px;
+  font-size: 18px;
+  line-height: 21px;
+  font-family: "Raleway";
+  display: flex;
+  align-items: center;
+  text-align: start;
+}
+.button-dowload {
+  background-color: #ec7979;
+  width: 270px;
+  height: 58px;
+  color: white;
+  font-family: "Open Sans";
+  font-size: 18px;
+  line-height: 25px;
+}
+.statue {
+  display: inline-block;
+}
+.statue-svobodi {
+  width: 470px;
+  height: 500px;
+  padding-left: 196px;
+}

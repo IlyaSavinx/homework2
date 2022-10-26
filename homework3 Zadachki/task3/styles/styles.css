@@ -1,0 +1,18 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  border-top: solid 1px red;
+  border-bottom: solid 1px green;
+}
+.table--width--margin {
+  width: 90%;
+  margin: auto;
+}
+.table--width--margin td,
+th {
+  padding: 0.5rem;
+  border: 1px solid #000;
+  text-align: center;
+}
